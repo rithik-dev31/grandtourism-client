@@ -1,0 +1,43 @@
+|-- assets
+    |-- Gemini_Generated_Image_8s6k3k8s6k3k8s6k.png
+    |-- Gemini_Generated_Image_dakbrsdakbrsdakb.png
+    |-- Gemini_Generated_Image_qpimz3qpimz3qpim.png
+    |-- Gemini_Generated_Image_r2ocgor2ocgor2oc.png
+    |-- Gemini_Generated_Image_xib94jxib94jxib9.png
+    |-- Glimpse of 2days KA Trip BUDDIES FROM KPRIET💥…Thank you for Choosing us🙏❤️_🔥...Do follow & su.mp4
+    |-- image-removebg-preview.png
+    |-- TEAM SRP⚡🔥...DO FOLLOW & SUPPORT @grand_tourism_official.mp4
+    |-- vedio-3.mp4
+|-- gallery
+    |-- img 4.webp
+    |-- img1.webp
+    |-- img2.webp
+    |-- img3.webp
+    |-- img5.webp
+    |-- img6.webp
+|-- GT.png
+|-- index.html
+|-- places
+    |-- Alapuzha.webp
+    |-- allepy.webp
+    |-- chickmanglur.webp
+    |-- Chickmanglur3.webp
+    |-- Chicmanglur2.webp
+    |-- coorg.webp
+    |-- fortkochi.webp
+    |-- hampi.webp
+    |-- kanyakumari.webp
+    |-- kodaikanal.webp
+    |-- Madurai.webp
+    |-- Mahabaliupuram.webp
+    |-- Marayoor.webp
+    |-- Munnar1.webp
+    |-- Mysore.webp
+    |-- ooty.webp
+    |-- rameshwaram.webp
+    |-- thailand.webp
+    |-- Vagamon.webp
+    |-- Varkala.webp
+    |-- Wonderla.webp
+|-- script.js
+|-- style.css
